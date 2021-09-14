@@ -1,5 +1,5 @@
 # xGQA
-This reporistory contains the test-dev data of the paper ["xGQA: Cross-lingual Visual Question Answering"](https://arxiv.org/).
+This reporistory contains the test-dev data of the paper ["xGQA: Cross-lingual Visual Question Answering"](https://arxiv.org/abs/2109.06082).
 The data builds on the work by [Hudson et al. 2019: GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering](https://arxiv.org/pdf/1902.09506.pdf) where the training data can be downloaded [here](https://cs.stanford.edu/people/dorarad/gqa/).
 
 ## Overview
@@ -37,6 +37,6 @@ If you find this repository helpful, please cite our paper ["xGQA: Cross-lingual
     author={ Jonas Pfeiffer and Gregor Geigle and Aishwarya Kamath and Jan-Martin O. Steitz and Stefan Roth and Ivan Vulić and Iryna Gurevych},
     journal = "arXiv preprint", 
     year = "2021",  
-    url = "https://arxiv.org/"
+    url = "https://arxiv.org/pdf/2109.06082.pdf"
 }
 ```

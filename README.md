@@ -1,6 +1,6 @@
 # xGQA
 This reporistory contains the test-dev data of the paper ["xGQA: Cross-lingual Visual Question Answering"](https://arxiv.org/abs/2109.06082).
-The data builds on the work by [Hudson et al. 2019: GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering](https://arxiv.org/pdf/1902.09506.pdf) where the training data can be downloaded [here](https://cs.stanford.edu/people/dorarad/gqa/).
+The data builds on the work by [Hudson et al. 2019: GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering](https://arxiv.org/pdf/1902.09506.pdf) of which the training data can be downloaded [here](https://cs.stanford.edu/people/dorarad/gqa/).
 
 ## Overview
 The repository is structured as follows:

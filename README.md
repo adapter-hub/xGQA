@@ -9,7 +9,7 @@ The repository is structured as follows:
 - **`data/few_shot/`** contains the new standard splits for few shot learning. The number in the file name indicates how many distinct images the split includes. i.e. `train_10.json` implies that this subset contains questions about 10 distinct images.
 
 ## Training Data
-Please download the training data of GQA ([Hudson et al. 2019)](https://arxiv.org/pdf/1902.09506.pdf) [here](https://cs.stanford.edu/people/dorarad/gqa/).
+Please download the English training data of GQA ([Hudson et al. 2019)](https://arxiv.org/pdf/1902.09506.pdf) [here](https://cs.stanford.edu/people/dorarad/gqa/).
 
 ## Zero-Shot Results
 Zero-shot transfer results on xGQA when transferring from English GQA. Average accuracy is reported. Mean scores are not averaged over

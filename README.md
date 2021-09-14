@@ -34,8 +34,8 @@ If you find this repository helpful, please cite our paper ["xGQA: Cross-lingual
 
 ```bibtex
 @article{pfeiffer-etal-2021-xGQA,
-    title={xGQA: Cross-Lingual Visual Question Answering},
-    author={ Jonas Pfeiffer and Gregor Geigle and Aishwarya Kamath and Jan-Martin O. Steitz and Stefan Roth and Ivan Vulić and Iryna Gurevych},
+    title={{xGQA: Cross-Lingual Visual Question Answering}},
+    author={ Jonas Pfeiffer and Gregor Geigle and Aishwarya Kamath and Jan-Martin O. Steitz and Stefan Roth and Ivan Vuli{\'{c}} and Iryna Gurevych},
     journal = "arXiv preprint", 
     year = "2021",  
     url = "https://arxiv.org/pdf/2109.06082.pdf"

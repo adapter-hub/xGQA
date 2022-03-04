@@ -33,12 +33,14 @@ Few-shot dataset sizes. The GQA test-dev set is split into new development, test
 If you find this repository helpful, please cite our paper ["xGQA: Cross-lingual Visual Question Answering"](https://arxiv.org/):
 
 ```bibtex
-@article{pfeiffer-etal-2021-xGQA,
+@inproceedings{pfeiffer-etal-2021-xGQA,
     title={{xGQA: Cross-Lingual Visual Question Answering}},
     author={ Jonas Pfeiffer and Gregor Geigle and Aishwarya Kamath and Jan-Martin O. Steitz and Stefan Roth and Ivan Vuli{\'{c}} and Iryna Gurevych},
-    journal = "arXiv preprint", 
-    year = "2021",  
-    url = "https://arxiv.org/pdf/2109.06082.pdf"
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
+    month = May,
+    year = "2022",  
+    url = "https://arxiv.org/pdf/2109.06082.pdf",
+    publisher = "Association for Computational Linguistics",
 }
 ```
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
